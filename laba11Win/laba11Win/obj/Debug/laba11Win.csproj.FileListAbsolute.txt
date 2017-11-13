@@ -1,0 +1,9 @@
+D:\University\4kurs\asp.net\laba11\laba11Win\laba11Win\bin\Debug\laba11Win.exe.config
+D:\University\4kurs\asp.net\laba11\laba11Win\laba11Win\bin\Debug\laba11Win.exe
+D:\University\4kurs\asp.net\laba11\laba11Win\laba11Win\bin\Debug\laba11Win.pdb
+D:\University\4kurs\asp.net\laba11\laba11Win\laba11Win\obj\Debug\laba11Win.Form1.resources
+D:\University\4kurs\asp.net\laba11\laba11Win\laba11Win\obj\Debug\laba11Win.Properties.Resources.resources
+D:\University\4kurs\asp.net\laba11\laba11Win\laba11Win\obj\Debug\laba11Win.csproj.GenerateResource.Cache
+D:\University\4kurs\asp.net\laba11\laba11Win\laba11Win\obj\Debug\laba11Win.csproj.CoreCompileInputs.cache
+D:\University\4kurs\asp.net\laba11\laba11Win\laba11Win\obj\Debug\laba11Win.exe
+D:\University\4kurs\asp.net\laba11\laba11Win\laba11Win\obj\Debug\laba11Win.pdb

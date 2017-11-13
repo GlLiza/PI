@@ -1,0 +1,9 @@
+D:\University\4kurs\asp.net\laba11\web-service\web-service\bin\web-service.dll.config
+D:\University\4kurs\asp.net\laba11\web-service\web-service\bin\web-service.dll
+D:\University\4kurs\asp.net\laba11\web-service\web-service\bin\web-service.pdb
+D:\University\4kurs\asp.net\laba11\web-service\web-service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\University\4kurs\asp.net\laba11\web-service\web-service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\University\4kurs\asp.net\laba11\web-service\web-service\obj\Release\web-service.csproj.CoreCompileInputs.cache
+D:\University\4kurs\asp.net\laba11\web-service\web-service\obj\Release\web-service.dll
+D:\University\4kurs\asp.net\laba11\web-service\web-service\obj\Release\web-service.pdb
+D:\University\4kurs\asp.net\laba11\web-service\web-service\obj\Release\web-service.csprojResolveAssemblyReference.cache
